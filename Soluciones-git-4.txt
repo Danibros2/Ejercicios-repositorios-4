@@ -1,0 +1,26 @@
+Daniel Ceña González
+
+EJERCICO1
+2 git remote add github https://github.com/Danibros2/libro-git.git
+3 git remote -v
+
+
+EJERCICIO2
+1 git push github master
+
+
+EJERCICIO3
+2 git clone 
+3 echo Daniel Ceña danielcenagonzalez2@gmail.com > autores.txt
+4 git add .
+5 git commit -m "Añadido autor"
+6 git push origin master.
+
+
+EJERCICIO4
+2 git clone https://github.com/Danibros2/libro-git.git
+3 git checkout -b autoria
+4 echo Daniel Ceña danielcenagonzalez2@gmail.com > autores.txt
+5 git add .
+6 git commit -m "Añadido nuevo autor"
+7 git push origin autoria
